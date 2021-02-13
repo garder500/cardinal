@@ -1,0 +1,36 @@
+{
+    "clan": {
+        "name": "Merci de fournir le nom du clan",
+        "description": "Merci de fournir la description du clan",
+        "create": "Clan créé avec succes !",
+        "delete": "Clan supprimé avec succes !",
+        "validation": "Es tu sur de vouloir supprimer ton clan ? `oui/non`",
+        "annuler": "Demande annulé",
+        "newowner": "La propriété du clan a bien été transférer.",
+        "captcha": "Merci d'ecrire le nombre ci dessous pour valider :",
+        "error": {
+            "argent": "Vous n'avez pas assez d'argent !",
+            "description": "Votre description ne dois pas depasser 200 caracteres !",
+            "name": "Votre nom de clan ne doit pas depasser 50 caracteres !",
+            "already": "Tu possedes deja un clan !",
+            "found": "Tu n'appartiens a aucun clan",
+            "noclan": "Tu ne possedes pas de clan !",
+            "membernoclan": "Cette personne n'est dans aucun clan",
+            "nowoner": "Vous devez etre propriétaire du clan pour pouvoir utiliser cette commande.",
+            "membernoinclan": "Cette personne n'est pas dans votre clan",
+            "manqueperm": "Vous n'avez pas les permissions requises dans le clan pour utiliser cette commande.",
+            "nomembre": "Ce clan n'a pas de membres",
+            "clancomplet": "Ce clan est complet (25 joueurs maximum)",
+            "norequestjoin": "Actuellement personne ne cherche a rejoindre votre clan.",
+            "idrequesterror": "Cette identifiant est invalide ou la personne n'a pas postulé pour rejoindre le clan"
+        }
+    },
+    "global": {
+        "langyes": "La langue du bot a été modifié.",
+        "error": {
+            "langerror": "Tu dois preciser un langage **fr**,**en**.",
+            "manquemention": "Vous devez mentionner une personne !",
+            "membreintrouvable": "Je n'est pas trouvé la personne !"
+        }
+    }
+}
