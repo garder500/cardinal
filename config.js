@@ -1,15 +1,19 @@
 module.exports = {
-  token: "NzY5NjE0NzgxMDQzNzAzODEw.X5Rlng.RtLXx6375vCVXqE-Z0m_mfLchdE",
-  ownerID: ["640302286463172628","243117191774470146"],
-  botID: "782658439591231519",
+  //Attention : veuillez bien compléter ce fichier pour que le bot marche
+  token: "BOT_TOKEN",
+  //votre token de bot
+  ownerID: ["OWNER_ID","OWNER_ID"],
+  //un ou plusieurs id des owners
+  botID: "BOT_ID",
   prefix: "$",
   shard: 0,
+  //vos infos de bdd
   mysql: {
-    host: "sql01.hostim.fr",
-    port: "3306",
-    user: "3010a894_urm2ft",
-    password: "jw9QIZB6vLE7y34c",
-    database: "3010a894_cardinal",
+    host: "DB_HOST",
+    port: "DB_PORT",
+    user: "DB_USER",
+    password: "DB_PASSWORD",
+    database: "DB_NAME",
   },
   embed: {
     color: "BLACK",
